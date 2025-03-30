@@ -1,2 +1,2 @@
 Creating a new branch is quick and simple.
-This is useless information!
+This is a useless information!
